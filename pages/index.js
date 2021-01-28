@@ -4,6 +4,7 @@ import Widget from '../pages/src/components/Widget'
 import Footer from '../pages/src/components/Footer'
 import GitHubCorner from '../pages/src/components/GitHubCorner'
 import QuizBackground from '../pages/src/components/QuizBackground'
+// teste
 
 // function Title(props) { // propriedades ou propscidades 
 //   return (
